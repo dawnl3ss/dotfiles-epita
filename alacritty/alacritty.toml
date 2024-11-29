@@ -1,0 +1,23 @@
+[colors.normal]
+black = "#3f3f3f"
+blue = "#506080"
+cyan = "#8cd0d8"
+green = "#60b47a"
+magenta = "#dc9cc3"
+red = "#b06060"
+white = "#ffffff"
+yellow = "#dfaf8f"
+
+[colors.primary]
+background = "#222222"
+foreground = "#F9F9F9"
+
+[env]
+XTERM = "xterm-256color"
+
+[font]
+size = 12
+
+[window]
+opacity = 0.8
+padding = { x = 20, y = 20 }
